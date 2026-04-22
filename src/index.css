@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@tailwind utilities;
+
 
 @layer utilities {
   .animate-gradient-flow {
@@ -17,7 +17,7 @@
   --color-sub-color:#E5CDB5;
   --color-point-color:#80BAFF;
   --color-sale-color:#FE2B00;
-  --max-width-inner: 1660px;
+  --max-width-inner: 1440px;
 }
 
 @layer components {
